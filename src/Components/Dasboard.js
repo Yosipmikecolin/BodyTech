@@ -41,7 +41,6 @@ border-radius:5px;
 margin:auto;
 margin-top:10px;
 font-size:18px;
-
 @media (max-width:500px){
 width:100%;
 margin:20px 0px;
